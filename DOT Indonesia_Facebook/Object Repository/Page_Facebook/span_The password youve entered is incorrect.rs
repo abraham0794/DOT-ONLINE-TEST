@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_The password youve entered is incorrect</name>
+   <tag></tag>
+   <elementGuidId>95864866-0a10-4ead-8a2e-8570efb3e84a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span._akzt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='u_0_1_c9']/div/div[2]/div/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5e6d773e-dac3-4402-b1f5-f74c192ba761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_akzt</value>
+      <webElementGuid>75bcb530-12cb-42db-a074-4be0297c4a74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The password you've entered is incorrect.</value>
+      <webElementGuid>296030b9-2693-401d-a065-1166a2eaa853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u_0_1_c9&quot;)/div[@class=&quot;mtl mbm ptm uiInterstitial _aklr uiInterstitialLarge uiBoxWhite&quot;]/div[@class=&quot;phl ptm uiInterstitialContent&quot;]/div[1]/div[@class=&quot;pam uiBoxGray&quot;]/div[1]/span[@class=&quot;_akzt&quot;]</value>
+      <webElementGuid>738b1bdd-a9df-4081-b28b-d0017e34c151</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='u_0_1_c9']/div/div[2]/div/div/div/span[2]</value>
+      <webElementGuid>b6029d07-c75e-45b8-9146-1b22a560733d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='There was a problem while logging you in, but we can send a login code to:'])[1]/preceding::span[1]</value>
+      <webElementGuid>19697750-0467-427c-9372-f2195b2b8578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='yosiay70@gmail.com'])[1]/preceding::span[1]</value>
+      <webElementGuid>bca51756-4b3d-45fd-9116-6d8218631549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>da12b358-c8f5-4693-9147-c97f5f63f292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot;The password you&quot; , &quot;'&quot; , &quot;ve entered is incorrect.&quot;) or . = concat(&quot;The password you&quot; , &quot;'&quot; , &quot;ve entered is incorrect.&quot;))]</value>
+      <webElementGuid>e1f40f61-0e48-4013-9c37-030f0992bfe3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
